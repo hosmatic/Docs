@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhosmatic_faq=self.webpackChunkhosmatic_faq||[]).push([[632],{1023:a=>{a.exports=JSON.parse('{"title":"Database","slug":"/category/database","permalink":"/de/docs/category/database","navigation":{"previous":{"title":"Hello","permalink":"/de/docs/dashboard/hello"},"next":{"title":"Hello","permalink":"/de/docs/database/hello"}}}')}}]);

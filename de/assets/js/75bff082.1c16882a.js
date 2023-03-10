@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhosmatic_faq=self.webpackChunkhosmatic_faq||[]).push([[132],{5670:e=>{e.exports=JSON.parse('{"title":"Server","slug":"/category/server","permalink":"/de/docs/category/server","navigation":{"previous":{"title":"Hello","permalink":"/de/docs/gameserver/hello"},"next":{"title":"Hello","permalink":"/de/docs/server/hello"}}}')}}]);

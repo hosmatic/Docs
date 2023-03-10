@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhosmatic_faq=self.webpackChunkhosmatic_faq||[]).push([[808],{1669:e=>{e.exports=JSON.parse('{"title":"Domain","slug":"/category/domain","permalink":"/de/docs/category/domain","navigation":{"previous":{"title":"Hello","permalink":"/de/docs/database/hello"},"next":{"title":"Hello","permalink":"/de/docs/domain/hello"}}}')}}]);
