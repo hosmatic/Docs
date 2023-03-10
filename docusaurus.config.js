@@ -53,7 +53,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Hosmatic/Docs/edit/master/tree',
+            'https://github.com/hosmatic/Docs/edit/master',
             showLastUpdateTime: true
         },
         theme: {

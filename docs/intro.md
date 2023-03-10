@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Hosmatic Docs Tutorial
+# Hosmatic Docs Contributing
 
 ## Getting Started
 
