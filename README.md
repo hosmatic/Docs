@@ -7,12 +7,12 @@
   Official Docs for hosmatic.com made with Docusaurus 2.
 </p>
 
-[![Build Worker](https://github.com/PuhHosting/FAQ/actions/workflows/build.yml/badge.svg)](https://github.com/PuhHosting/FAQ/actions/workflows/build.yml)
+[![Build Worker](https://github.com/hosmatic/Docs/actions/workflows/build.yml/badge.svg)](https://github.com/hosmatic/Docs/actions/workflows/build.yml)
 ![Discord](https://img.shields.io/discord/683279660406013969?label=Discord&logo=Discord&logoColor=white)
 
 ## Contributing 🔧
 
-see [docs/intro.md](https://github.com/hosmatic/Docs/docs/intro.md)
+see [docs/intro.md](https://github.com/hosmatic/Docs/blob/master/docs/intro.md)
 
 ## Contributors
 

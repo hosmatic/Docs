@@ -1,0 +1,14 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    reviewers:
+      - "MG-100"
+    commit-message:
+      prefix: "⚠️"
+      prefix-development: "⚠️"
+    labels:
+      - "enhancement"
+    open-pull-requests-limit: 10
