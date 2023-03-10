@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhosmatic_faq=self.webpackChunkhosmatic_faq||[]).push([[849],{6921:a=>{a.exports=JSON.parse('{"title":"Dashboard","slug":"/category/dashboard","permalink":"/de/docs/category/dashboard","navigation":{"previous":{"title":"Hosmatic Docs Contributing","permalink":"/de/docs/intro"},"next":{"title":"Hello","permalink":"/de/docs/dashboard/hello"}}}')}}]);
